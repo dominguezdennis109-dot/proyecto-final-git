@@ -53,7 +53,7 @@ body{
 	justify-content:center;
 	align-items:center;
 	user-select:none;
-	background-color:#ccc;
+	background-color:#b200ff; /*Cambio realizado para git*/
 	width:500px;
 	height:500px;
 }
